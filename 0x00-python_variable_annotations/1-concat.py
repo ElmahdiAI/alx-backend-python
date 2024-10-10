@@ -2,7 +2,9 @@
 '''
 type-annotated function
 '''
-def concat (str1: str, str2: str) -> str:
+
+
+def concat(str1: str, str2: str) -> str:
     '''
     returns the concatenation of two strings
     '''

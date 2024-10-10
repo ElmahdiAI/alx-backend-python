@@ -2,7 +2,9 @@
 '''
 Basic annotations for variables.
 '''
-def add (a: float, b: float) -> float:
+
+
+def add(a: float, b: float) -> float:
     '''
     returns sum of two floats
     '''

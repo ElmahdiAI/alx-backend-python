@@ -2,8 +2,10 @@
 '''
 type-annotated function
 '''
-def to_str (n: float) -> str:
+
+
+def to_str(n: float) -> str:
     '''
     return the string representation of a float
     '''
-    return str (n)
+    return str(n)

@@ -3,7 +3,9 @@
 type-annotated function
 '''
 import math as m
-def floor (n: float) -> int:
+
+
+def floor(n: float) -> int:
     '''
     returns the floor of n
     '''
