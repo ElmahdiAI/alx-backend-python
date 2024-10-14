@@ -22,4 +22,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - All your functions should have a documentation (python3 -c 'print(__import__("my_module").my_function.__doc__)'
 - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 <hr>
-<img src = 'https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241014%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241014T093440Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=52e03163ae935422388ea29b4e9d7bf9a9d36a8498d975a1bf3819b43f3ff050'></img>
+<img src="https://media.makeameme.org/created/async-async-everywhere-9bd72097b7.jpg" align="center"> </img>
